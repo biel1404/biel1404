@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my career
 - 💬 Ask me about anything :)
 - 📫 How to reach me:
-- <div>
-<a href = "mailto:gabrielbiel1404@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- <div> <a href = "mailto:gabrielbiel1404@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
